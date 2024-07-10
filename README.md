@@ -19,7 +19,7 @@
         - Nombre Perfil
         - Total Kcal
         - Macronutrientes
-    - Perfiles
+    - Perfiles: donde se pueda visualizar el listado de perfiles creados
     - Mis Alimentos : con nuestro listado de alimentos y un botón para añadir un alimento nuevo
     - Cerrar Sesión: que nos permite desloggearnos
   - Login: con su autorizacion y autenticación. Idealmente conectado a nuestra cuenta de google para hacer el registro más rápido.
