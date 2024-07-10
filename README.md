@@ -26,7 +26,14 @@
   - Logo Admin para gestionar la cuenta: nombre usuario, contraseña.
 
 # Objetivos
-- Base de datos con un listado de alimentos a seleccionar
-- Filtrar los resultados del listado
-- CRUD Alimentos
-- CRUD Perfiles
+- Backend
+  - Base de datos con un listado de alimentos a seleccionar
+  - Creacion de API rest con el CRUD
+  - Relaciones entre entidades
+  - Authentication y Authorization
+- Frontend
+  - Filtrar los resultados del listado
+  - CRUD Alimentos
+  - CRUD Perfiles
+  - Login/Logout
+  - Register
