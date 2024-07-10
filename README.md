@@ -37,3 +37,4 @@
   - CRUD Perfiles
   - Login/Logout
   - Register
+- Unit Testing
