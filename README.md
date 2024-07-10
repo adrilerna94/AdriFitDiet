@@ -38,3 +38,6 @@
   - Login/Logout
   - Register
 - Unit Testing
+
+# Figma
+https://www.figma.com/design/RZTiyBV7Ve2qrG9PdLBKMQ/AdriFitDiet?node-id=0-1&t=Uf4pSGE6SnJ8fEgU-0
